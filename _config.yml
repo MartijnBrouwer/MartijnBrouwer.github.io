@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "ir. drs. Martijn Sebastiaan Brouwer"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Dual MSc Graduate in Mathematics & Physics"
+  location         : "Utrecht, The Netherlands"
+  employer         : "Utrecht University & Delft University of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "martijnbrouwer@xs4all.nl" 
 
   # Academic websites
   academia         : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/martijn-brouwer-6b155625b/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
